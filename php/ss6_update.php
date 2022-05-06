@@ -16,6 +16,8 @@ integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+
 crossorigin="anonymous"></script>
 <?php
 // include the database file
+
+//test for github
 include('db_conn.php'); ?>
 </head>
 <body>
